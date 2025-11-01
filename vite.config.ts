@@ -10,5 +10,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/AdWeb-IA02/",
+  base: "/AdvWeb-IA02/",
 });
